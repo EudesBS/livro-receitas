@@ -8,3 +8,4 @@ Seja bem vindo ao melhor livro de receitas do mundo!
    - Lasanha
    - Buchada
    - Acarajé
+   - Pavê
